@@ -1,0 +1,16 @@
+/** This is a comment that the browser will ignore,
+* Put your CSS code into this file
+*/
+
+body
+{
+    background: lightblue; /** make body background light blue  */
+}
+ 
+h1
+{
+    
+    background: darkblue;/** make font background blue  */
+    color: white; /** make font colour white  */
+    font-size: 40px; /** increase font size  */
+}
