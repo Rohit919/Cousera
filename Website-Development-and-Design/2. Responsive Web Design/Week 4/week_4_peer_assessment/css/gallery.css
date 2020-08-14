@@ -1,0 +1,32 @@
+.crop-img{
+  max-height:150px;
+  max-width:100%;
+}
+
+.large-img{
+  max-width:100%;
+}
+
+.carousel-img{
+    margin: auto;
+    padding: 10px;
+    max-height:300px;
+    max-width:100%;
+
+}
+
+.animal-name
+{
+  margin:25px; 
+}
+
+
+.thumbnail,.large-img, .crop-img, .navbar-default{
+  border-radius: 25px;
+  padding-top:5px;
+}
+
+.thumbnail,.navbar-default {
+  box-shadow: 10px 10px 5px #888888;
+}
+
